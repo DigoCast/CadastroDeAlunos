@@ -1,11 +1,9 @@
-Cadastro do Aluno Augusto Mello B - IMC
-==============================================
-Data de Registro: 25/11/2024, CPF: 123789, Nome: Augusto Mello B, Data de Nascimento: 2012-03-23, IMC: 17,7, Interpretação do Resultado: Abaixo do peso
-Cadastro do Aluno Augusto Mello B - IMC
-==============================================
-Data de Registro: 25/11/2024, CPF: 123789, Nome: Augusto Mello B, Data de Nascimento: 2012-03-23, IMC: 17,7, Interpretação do Resultado: Abaixo do peso
-Cadastro do Aluno Augusto Mello B - IMC
-==============================================
-Data de Registro: 25/11/2024, CPF: 123789, Nome: Augusto Mello B, Data de Nascimento: 2012-03-23, IMC: 17,7, Interpretação do Resultado: Abaixo do peso
-Data de Registro: 25/11/2024, CPF: 123789, Nome: Augusto Mello B, Data de Nascimento: 2012-03-23, IMC: 17,7, Interpretação do Resultado: Abaixo do peso
-Data de Registro: 25/11/2024, CPF: 123789, Nome: Augusto Mello B, Data de Nascimento: 2012-03-23, IMC: 17,7, Interpretação do Resultado: Abaixo do peso
+CREATE DATABASE alunos;
+use alunos;
+create table aluno(
+alu_cpf int,
+alu_nome varchar(50),
+alu_nasc date,
+alu_peso float(5,2),
+alu_altura float(5,2)
+);
