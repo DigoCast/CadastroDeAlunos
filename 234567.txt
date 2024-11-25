@@ -1,0 +1,3 @@
+Cadastro do Aluno Maria Oliveira - IMC
+==============================================
+Data de Registro: 25/11/2024, CPF: 234567, Nome: Maria Oliveira, Data de Nascimento: 1995-06-22, IMC: 23,14, Interpretação do Resultado: Peso Normal
